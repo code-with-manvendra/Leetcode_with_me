@@ -24,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/code-with-manvendra/Leetcode_with_me-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Array
+|  |
+| ------- |
+| [2798-number-of-employees-who-met-the-target](https://github.com/code-with-manvendra/Leetcode_with_me-/tree/master/2798-number-of-employees-who-met-the-target) |
 <!---LeetCode Topics End-->
