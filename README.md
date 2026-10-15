@@ -29,10 +29,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/code-with-manvendra/Leetcode_with_me-/tree/master/0027-remove-element) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/code-with-manvendra/Leetcode_with_me-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/code-with-manvendra/Leetcode_with_me-/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/code-with-manvendra/Leetcode_with_me-/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/code-with-manvendra/Leetcode_with_me-/tree/master/0027-remove-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/code-with-manvendra/Leetcode_with_me-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/code-with-manvendra/Leetcode_with_me-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
